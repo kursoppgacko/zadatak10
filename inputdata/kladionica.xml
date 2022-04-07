@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--ovo su podaci o kladionici-->
+<kladionica imeKladionice="Meridian" adresaKladioinice="Hercega Stefana 45" brojTelefonaKladionice="065-6363-7373">
+
+  <listaTiketa>
+    <tiket identifikacionKod="343434">
+      <radnikKladionice ime="Petar Peric" sifraRadnika="523523"/>
+
+      <parovi>
+        <par id="3534">
+          <tim1 imeTime1="Juventus" kvota=1.3/>
+          <tim2 imeTima2="Milan" kvota=1.5/>
+          <kombinacija>1</kombinacija>
+        </par>
+        <par id="7467">
+          <tim1 imeTime1="Lazio" kvota=1.3/>
+          <tim2 imeTima2="Inter" kvota=1.8/>
+          <kombinacija>2</kombinacija>
+        </par>
+      </parovi>
+
+      <dobitak>343.45</dobitak>
+    <tiket>
+
+   <tiket identifikacionKod="3434">
+      <radnikKladionice ime="Mitar Peric" sifraRadnika="523523"/>
+
+      <parovi>
+        <par id="3534">
+          <tim1 imeTime1="Juventus" kvota=1.3/>
+          <tim2 imeTima2="Milan" kvota=1.5/>
+          <kombinacija>1</kombinacija>
+        </par>
+        <par id="7467">
+          <tim1 imeTime1="Lazio" kvota=1.3/>
+          <tim2 imeTima2="Inter" kvota=1.8/>
+          <kombinacija>2</kombinacija>
+        </par>
+      </parovi>
+
+      <dobitak>343.45</dobitak>
+    <tiket>
+  </listaTiketa>
+ 
+</kladionica>
+
